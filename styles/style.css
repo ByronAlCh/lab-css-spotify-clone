@@ -6,3 +6,50 @@ Green: #00B172
 White: #FFF
 
 */
+img {
+    width: 100%;
+}
+
+
+
+.menu {}
+
+.div,
+h2 {
+    text-decoration: underline;
+    text-align: center;
+}
+
+
+.primeraparte {
+    background-image: url("../images/landing.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.container {
+    text-align: center;
+    display: flex;
+}
+
+.bloqueuno {
+    padding-left: 100px;
+    padding-top: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+}
+
+.bloquedos {
+    padding-left: 100px;
+    padding-top: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+}
+
+.bloquetres {
+    padding-left: 100px;
+    padding-top: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+}
